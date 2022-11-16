@@ -83,6 +83,7 @@ public class GuessingGame extends JFrame {
 		GuessLabel.setBounds(53, 99, 225, 27);
 		getContentPane().add(GuessLabel);
 		
+		// Text field
 		txtGuess = new JTextField();
 		txtGuess.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -94,6 +95,7 @@ public class GuessingGame extends JFrame {
 		getContentPane().add(txtGuess);
 		txtGuess.setColumns(10);
 		
+		// Guess button
 		JButton GuessBtn = new JButton("Guess!");
 		GuessBtn.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
