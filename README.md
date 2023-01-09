@@ -4,7 +4,7 @@
 
 ## What you need
 - Java 🍵
-- IDE
+- IDE (i used eclipse)
 - And a PC/laptop ofc 😁
 
 ## Images
