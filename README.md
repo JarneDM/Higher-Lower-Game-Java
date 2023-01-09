@@ -4,8 +4,7 @@
 
 ## What you need
 - Java 🍵
-- Eclipse 🌅
-- WindowBuilder Editor downloaded in eclipse 🪟🔨
+- Java IDE
 - And a PC/laptop ofc 😁
 
 ## Images
